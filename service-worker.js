@@ -5,7 +5,7 @@ self.addEventListener('install', event => {
         '/Buffalo/',
         '/Buffalo/index.html',
         '/Buffalo/manifest.json',
-        'https://img.freepik.com/vector-premium/plantilla-icono-vector-logo-diablo-rojo_487414-84.jpg'
+        'https://i.ibb.co/PW9DkHK/BUFFALO-APP.png'
       ]);
     })
   );
