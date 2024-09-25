@@ -1,0 +1,20 @@
+{
+  "short_name": "Buffalo Corp",
+  "name": "Buffalo Corp",
+  "icons": [
+    {
+      "src": "https://i.ibb.co/PW9DkHK/BUFFALO-APP.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.ibb.co/PW9DkHK/BUFFALO-APP.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/buffalo/index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000"
+}
